@@ -8,11 +8,11 @@
 
 | 로그인 화면 | SNS 로그인 |
 |-------------|-------------|
-| <img width="300" src="[https://github.com/...1](https://github.com/user-attachments/assets/6f4115ed-d673-4bb8-b072-135bafebdd46)" /> | <img width="300" src="[https://github.com/...2](https://github.com/user-attachments/assets/a8bfeb6f-5f84-4443-ba4d-14b90fdc772c)" /> |
+| <img width="300" src="https://github.com/user-attachments/assets/6f4115ed-d673-4bb8-b072-135bafebdd46" /> | <img width="300" src="https://github.com/user-attachments/assets/a8bfeb6f-5f84-4443-ba4d-14b90fdc772c" /> |
 
 | 회원가입 | 에러 메시지 |
 |-------------|-------------|
-| <img width="300" src="[https://github.com/...3](https://github.com/user-attachments/assets/85a74642-5879-40e8-a1f4-4fa63d04a369)" /> | <img width="300" src="[https://github.com/...4](https://github.com/user-attachments/assets/40ab1f7a-673e-495a-ae72-5f3c5768d86e)" /> |
+| <img width="300" src="https://github.com/user-attachments/assets/85a74642-5879-40e8-a1f4-4fa63d04a369" /> | <img width="300" src="https://github.com/user-attachments/assets/40ab1f7a-673e-495a-ae72-5f3c5768d86e" /> |
 
 🧰 기술 스택
 
