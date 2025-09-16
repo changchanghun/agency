@@ -6,7 +6,7 @@
 
 📸 스크린샷
 
-![로그인 화면](https://yourdomain.com/screenshot-login.png)
+![로그인 화면]<img width="872" height="814" alt="Image" src="https://github.com/user-attachments/assets/6f4115ed-d673-4bb8-b072-135bafebdd46" />
 ![SNS 로그인](https://yourdomain.com/screenshot-sns.png)
 
 🧰 기술 스택
