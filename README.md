@@ -1,20 +1,20 @@
-✨ Point Finder (hidden) Project
+#✨ Point Finder (hidden) Project
 
-회원의 통신사별 놓치고있는 혜택을 알려주는 웹앱입니다.
+- 회원의 통신사별 놓치고있는 혜택을 알려주는 웹앱입니다.
 
 🌐 배포 주소 👉 http://chworld2.dothome.co.kr/agency
 
-📸 스크린샷
+##📸 스크린샷
 
-| 로그인 화면 | SNS 로그인 |
+| 로그인 화면 | 메인화면 |
 |-------------|-------------|
 | <img width="300" src="https://github.com/user-attachments/assets/6f4115ed-d673-4bb8-b072-135bafebdd46" /> | <img width="300" src="https://github.com/user-attachments/assets/a8bfeb6f-5f84-4443-ba4d-14b90fdc772c" /> |
 
-| 회원가입 | 에러 메시지 |
+| 반응형 | 카테고리 추천 페이지 |
 |-------------|-------------|
 | <img width="300" src="https://github.com/user-attachments/assets/85a74642-5879-40e8-a1f4-4fa63d04a369" /> | <img width="300" src="https://github.com/user-attachments/assets/40ab1f7a-673e-495a-ae72-5f3c5768d86e" /> |
 
-🧰 기술 스택
+##🧰 기술 스택
 
 - 서버 : 닷홈 무료 호스팅, 로컬 컴퓨터( 크롤링 파이썬파일 실행하기위한 크론탭 설정 )
 - 데이터베이스 : phpMyAdmin
@@ -22,7 +22,7 @@
 - 백엔드 : php, python3(셀레니움 크롤링)
 - 앱 패키징 : cordova
 
-🔐 주요 기능
+##🔐 주요 기능
 
 - 일반 로그인 / 회원가입 / 아이디,비밀번호찾기
 - SNS 로그인 (Kakao, Naver)
@@ -34,7 +34,7 @@
 - 회원별 위치 즐겨찾기(max 5)
 - 연령대별 카테고리 추천 (각 연령대별 순위 랭킹)
 
-🚀 프로젝트 목적
+##🚀 프로젝트 목적
 
 이 프로젝트는 실제 서비스 배포를 목표로 개발되었으며,  
 PHP 백엔드와 사용자 인증 흐름에 대한 이해를 바탕으로 구현되었습니다.
