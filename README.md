@@ -6,7 +6,7 @@
 
 📸 스크린샷
 
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/6f4115ed-d673-4bb8-b072-135bafebdd46" /><img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/a8bfeb6f-5f84-4443-ba4d-14b90fdc772c" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/6f4115ed-d673-4bb8-b072-135bafebdd46" /><img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/a8bfeb6f-5f84-4443-ba4d-14b90fdc772c" />
 
 🧰 기술 스택
 
