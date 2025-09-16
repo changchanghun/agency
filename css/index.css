@@ -1,0 +1,70 @@
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+.sns-login {
+    margin-top: 20px;
+    text-align: center;
+}
+.sns-btn {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.naver-btn { 
+    background-color: #03C75A; 
+    color: white; 
+}
+.kakao-btn { 
+    background-color: #FEE500; 
+    color: #000000; 
+}
+label{
+    width:25%;
+    margin-top:10px;
+}
+input{
+    width:75%
+}
+.btn.active{
+    background:#007bff !important;
+    color:#fff;
+}
+
+.img_wrap{
+    width:50%; 
+    max-width:300px; 
+    margin: 0 auto;
+}
+
+.img_wrap img{
+    width:100%; 
+    margin:100px 0;
+}
+
+#I_id{
+    display:flex; 
+    margin-bottom:10px;
+}
+#I_pw{
+    display:flex;
+}
+#login_btn{
+    display:flex; 
+    justify-content:center;
+}
+#login_btn button{
+    width:100%; 
+    margin:15px 0; 
+    background:#ccc;
+}
+
+.mid_box{
+    display:flex; 
+    justify-content:space-evenly;
+}
