@@ -1,4 +1,4 @@
-# ✨ Point Finder (hidden) Project
+# ✨ Point Finder (hidden) 개인 프로젝트 (FE : 100%, BE : 100%)
 
 - 회원의 통신사별 놓치고있는 혜택을 알려주는 웹앱입니다.
 
